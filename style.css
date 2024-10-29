@@ -17,6 +17,41 @@ main {
     text-align: center;
 }
 
+.bottomimg {
+    color: gray;
+}
+
 .descrizione {
     text-align: start;
+    color: orange;
+}
+
+.link{
+    text-align: start;
+    text-decoration: underline;
+    color: rgb(77, 179, 145);
+}
+
+h2 {
+    text-align: start;
+}
+
+h4{
+    text-align: start;
+}
+
+ul {
+    text-align: start;
+}
+
+.method{
+    text-align: start;
+}
+a {
+    color: rgb(77, 179, 145);
+}
+
+footer {
+    text-align: start;
+
 }
