@@ -13,12 +13,19 @@ header {
     padding: 10px 0;
 }
 
-main {
+.bottomimg {
+    color: gray;
     text-align: center;
 }
 
-.bottomimg {
-    color: gray;
+.main {
+    width: 500px;
+    margin: auto;
+}
+
+.focacciaimg {
+    width: 500px;
+    margin: auto;
 }
 
 .descrizione {
@@ -53,5 +60,6 @@ a {
 
 footer {
     text-align: start;
-
+    width: 500px;
+    margin: auto;
 }
